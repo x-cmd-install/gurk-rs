@@ -7,7 +7,7 @@ Signal Messenger client for terminal
 - **Latest release**: `v0.10.1` (2026-07-26)
 - **Last commit**: 2026-07-26
 - **License**: AGPL-3.0
-- **Stars**: 1370 · **Forks**: 79 · **Open issues**: 230 · **Contributors**: 38
+- **Stars**: 1371 · **Forks**: 79 · **Open issues**: 231 · **Contributors**: 38
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/gurk-rs> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:10:47Z._
+_Last regenerated: 2026-09-09T20:40:29Z._
