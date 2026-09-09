@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12890586,
       "digest": "sha256:7614fcbeb75074cd166f6e59c64d673d98cf33432778e6b64b90a40d15ac4d2b",
-      "download_count": 68,
+      "download_count": 70,
       "created_at": "2026-07-26T11:19:01Z",
       "updated_at": "2026-07-26T11:19:02Z",
       "browser_download_url": "https://github.com/boxdot/gurk-rs/releases/download/v0.10.1/gurk-x86_64-unknown-linux-musl.tar.gz"
@@ -258,13 +258,13 @@
   "body": "This release fixes potential account linking issues.\r\n\r\n### 🐛 Bug Fixes\r\n\r\n- Fix potential segfault on exit  (#567)\r\n\r\n### 💼 Other\r\n\r\n- *(deps)* Upgrade presage to the latest rev on main (#564)\r\n- *(deps)* Upgrade dependencies (#565, #566)",
   "reactions": {
     "url": "https://api.github.com/repos/boxdot/gurk-rs/releases/359992589/reactions",
-    "total_count": 2,
+    "total_count": 3,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
-    "heart": 1,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   }
