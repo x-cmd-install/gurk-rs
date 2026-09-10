@@ -1,0 +1,427 @@
+- repo: nix_stable_25_11
+  srcname: gurk-rs
+  visiblename: gurk-rs
+  version: 0.6.4
+  origversion: null
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - '"^"@regexmail.net'
+  licenses:
+    - AGPL-3.0-only
+- repo: arch
+  subrepo: extra
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: 0.10.1-1
+  status: newest
+  summary: Signal Messenger client for terminal
+  licenses:
+    - AGPL-3.0-only
+- repo: aur
+  srcname: gurk-git
+  binname: gurk-git
+  visiblename: gurk-git
+  version: 0.7.1.r309.g4274bc9
+  origversion: 0.7.1.r309.g4274bc9-2
+  status: rolling
+  summary: CLI client for Signal
+  maintainers:
+    - kchr@aur
+    - sup3legacy@aur
+  licenses:
+    - AGPL3
+- repo: chimera
+  subrepo: user
+  srcname: gurk
+  binname: gurk-doc
+  visiblename: gurk-doc
+  version: 0.9.3
+  origversion: 0.9.3-r0
+  status: outdated
+  summary: Signal Messenger client TUI (documentation)
+  licenses:
+    - AGPL-3.0-only
+- repo: crates_io
+  srcname: gurk
+  visiblename: gurk
+  version: 0.0.0
+  origversion: null
+  status: outdated
+  summary: Signal messenger client for terminal
+- repo: freebsd
+  srcname: net-im/gurk-rs
+  binname: gurk-rs
+  visiblename: net-im/gurk-rs
+  version: 0.6.1
+  origversion: 0.6.1_13
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - bsd@orsolic.org
+  categories:
+    - net-im
+- repo: gentoo_ovl_guru
+  srcname: net-im/gurk-rs
+  visiblename: net-im/gurk-rs
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Signal messenger client for terminal
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - AGPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - net-im
+- repo: gentoo_ovl_guru
+  srcname: net-im/gurk-rs
+  visiblename: net-im/gurk-rs
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Signal messenger client for terminal
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - AGPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - net-im
+- repo: homebrew
+  srcname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: null
+  status: newest
+  summary: Signal Messenger client for terminal
+- repo: liguros_stable
+  srcname: net-im/gurk-rs
+  visiblename: net-im/gurk-rs
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Signal messenger client for terminal
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - AGPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - net-im
+- repo: liguros_stable
+  srcname: net-im/gurk-rs
+  visiblename: net-im/gurk-rs
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Signal messenger client for terminal
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - AGPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - net-im
+- repo: liguros_develop
+  srcname: net-im/gurk-rs
+  visiblename: net-im/gurk-rs
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Signal messenger client for terminal
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - AGPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - net-im
+- repo: liguros_develop
+  srcname: net-im/gurk-rs
+  visiblename: net-im/gurk-rs
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Signal messenger client for terminal
+  maintainers:
+    - beatussum@protonmail.com
+  licenses:
+    - AGPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-3.0
+    - ZLIB
+  categories:
+    - net-im
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: 0.10.1-1
+  status: newest
+  summary: Signal Messenger client for terminal
+  licenses:
+    - AGPL-3.0-only
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: 0.10.1-1
+  status: newest
+  summary: Signal Messenger client for terminal
+  licenses:
+    - AGPL-3.0-only
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: 0.10.1-1
+  status: newest
+  summary: Signal Messenger client for terminal
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_24_05
+  srcname: gurk-rs
+  visiblename: gurk-rs
+  version: 0.4.3
+  origversion: null
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - '"^"@regexmail.net'
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: gurk-rs
+  visiblename: gurk-rs
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - '"^"@regexmail.net'
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: gurk-rs
+  visiblename: gurk-rs
+  version: 0.6.4
+  origversion: null
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - '"^"@regexmail.net'
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_26_05
+  srcname: gurk-rs
+  visiblename: gurk-rs
+  version: 0.9.3
+  origversion: null
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - '"^"@regexmail.net'
+    - wavy-wisdom-volley@duck.com
+    - nicknb@posteo.com
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_unstable
+  srcname: gurk-rs
+  visiblename: gurk-rs
+  version: 0.10.1
+  origversion: null
+  status: newest
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - '"^"@regexmail.net'
+    - wavy-wisdom-volley@duck.com
+    - nicknb@posteo.com
+    - faukah@github
+  licenses:
+    - AGPL-3.0-only
+- repo: parabola
+  subrepo: extra
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: 0.10.1-1
+  status: newest
+  summary: Signal Messenger client for terminal
+  licenses:
+    - AGPL-3.0-only
+- repo: pkgsrc_2026_2
+  srcname: chat/gurk
+  binname: gurk
+  visiblename: chat/gurk
+  version: 0.9.3
+  origversion: null
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - chat
+- repo: pkgsrc_current
+  srcname: chat/gurk
+  binname: gurk
+  visiblename: chat/gurk
+  version: 0.10.1
+  origversion: 0.10.1nb1
+  status: newest
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - chat
+- repo: terra_rawhide
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: 0.10.1-1.fcrawhide
+  status: newest
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - AGPL-3.0-or-later AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND ISC AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND (BSD-3-Clause OR MIT OR Apache-2.0) AND BSL-1.0 AND CDLA-Permissive-2.0 AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: 0.10.1-1.fcrawhide
+  status: newest
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - AGPL-3.0-or-later AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND ISC AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND (BSD-3-Clause OR MIT OR Apache-2.0) AND BSL-1.0 AND CDLA-Permissive-2.0 AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: gurk
+  binname: gurk-debuginfo
+  visiblename: gurk-debuginfo
+  version: 0.10.1
+  origversion: 0.10.1-1.fcrawhide
+  status: newest
+  summary: Debug information for package gurk
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - AGPL-3.0-or-later AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND ISC AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND (BSD-3-Clause OR MIT OR Apache-2.0) AND BSL-1.0 AND CDLA-Permissive-2.0 AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: gurk
+  binname: gurk-debuginfo
+  visiblename: gurk-debuginfo
+  version: 0.10.1
+  origversion: 0.10.1-1.fcrawhide
+  status: newest
+  summary: Debug information for package gurk
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - AGPL-3.0-or-later AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND ISC AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND (BSD-3-Clause OR MIT OR Apache-2.0) AND BSL-1.0 AND CDLA-Permissive-2.0 AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: gurk
+  binname: gurk-debugsource
+  visiblename: gurk-debugsource
+  version: 0.10.1
+  origversion: 0.10.1-1.fcrawhide
+  status: newest
+  summary: Debug sources for package gurk
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - AGPL-3.0-or-later AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND ISC AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND (BSD-3-Clause OR MIT OR Apache-2.0) AND BSL-1.0 AND CDLA-Permissive-2.0 AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: gurk
+  binname: gurk-debugsource
+  visiblename: gurk-debugsource
+  version: 0.10.1
+  origversion: 0.10.1-1.fcrawhide
+  status: newest
+  summary: Debug sources for package gurk
+  maintainers:
+    - owen@fyralabs.com
+  licenses:
+    - AGPL-3.0-or-later AND (MIT OR Apache-2.0) AND Unicode-3.0 AND (0BSD OR MIT OR Apache-2.0) AND Apache-2.0 AND ISC AND (Apache-2.0 OR BSL-1.0) AND (Apache-2.0 OR ISC OR MIT) AND (Apache-2.0 OR MIT) AND (Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT) AND (BSD-2-Clause OR Apache-2.0 OR MIT) AND BSD-3-Clause AND (BSD-3-Clause OR Apache-2.0) AND (BSD-3-Clause OR MIT OR Apache-2.0) AND BSL-1.0 AND CDLA-Permissive-2.0 AND MIT AND (MIT OR Apache-2.0) AND (MIT OR Apache-2.0 OR BSD-1-Clause) AND (MIT OR Apache-2.0 OR LGPL-2.1-or-later) AND (MIT OR Apache-2.0 OR Zlib) AND (MIT OR Zlib OR Apache-2.0) AND MPL-2.0 AND (Unlicense OR MIT) AND Zlib AND (Zlib OR Apache-2.0 OR MIT)
+  categories:
+    - Development/Debug
+- repo: chimera
+  subrepo: user
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.9.3
+  origversion: 0.9.3-r0
+  status: outdated
+  summary: Signal Messenger client TUI
+  licenses:
+    - AGPL-3.0-only
