@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,371 · **Forks**: 79 · **Open issues**: 231 · **Contributors**: 38
+- **Stars**: 1,373 · **Forks**: 80 · **Open issues**: 231 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -94,4 +94,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:06:21Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:41:33Z._
