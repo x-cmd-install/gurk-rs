@@ -4,7 +4,7 @@
 
 Signal Messenger client for terminal
 
-![gurk-rs](https://repo.x-cmd.io/gurk-rs.svg?lang=zh)
+[![x-cmd/install — gurk-rs Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gurk-rs.svg?lang=zh)](https://x-cmd.com/install/gurk-rs)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install gurk-rs
 
 ## 流行度
 
-- **Star**: 1,377 · **Fork**: 80 · **开放 issue**: 232 · **贡献者**: 38
+- **Star**: 1,379 · **Fork**: 80 · **开放 issue**: 232 · **贡献者**: 38
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install gurk-rs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 0 | 0 | 2 | 5 |
-| last60d | 2026-07-20 | 1 | 10 | 0 | 1 | 4 | 10 |
-| 90d | 2026-06-20 | 2 | 15 | 0 | 1 | 5 | 26 |
-| last180d | 2026-03-22 | 5 | 39 | 0 | 4 | 16 | 39 |
-| 360d | 2025-09-23 | 9 | 79 | 0 | 20 | 45 | 78 |
-| last720d | 2024-09-28 | 17 | 145 | 0 | 43 | 65 | 146 |
+| 30d | 2026-08-21 | 0 | 2 | 0 | 0 | 2 | 5 |
+| last60d | 2026-07-22 | 1 | 10 | 0 | 1 | 4 | 5 |
+| 90d | 2026-06-22 | 2 | 15 | 0 | 1 | 5 | 26 |
+| last180d | 2026-03-24 | 5 | 39 | 0 | 4 | 16 | 39 |
+| 360d | 2025-09-25 | 9 | 79 | 0 | 20 | 44 | 78 |
+| last720d | 2024-09-30 | 17 | 145 | 0 | 43 | 65 | 146 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ gurk-rs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:24:34Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:17:28Z._
