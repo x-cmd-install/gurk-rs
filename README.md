@@ -14,11 +14,11 @@ x install gurk-rs
 
 ## Code insight
 
-Total: **11,151** lines of code across **63** files in the top 5 languages.
+Total: **11,196** lines of code across **63** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,705 | 286 | 1,329 | 45 |
+| Rust | 10,750 | 286 | 1,331 | 45 |
 | Toml | 180 | 43 | 20 | 4 |
 | Sql | 170 | 14 | 30 | 11 |
 | Nix | 96 | 6 | 14 | 1 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 325 · **Open PRs**: 2 · **Closed issues**: 135 · **Open issues**: 100 · **Commits**: 403
+- **Releases**: 30 · **Merged PRs**: 327 · **Open PRs**: 1 · **Closed issues**: 135 · **Open issues**: 100 · **Commits**: 405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 3 | 2 | 0 | 5 | 6 |
-| last60d | 2026-08-09 | 0 | 3 | 2 | 0 | 5 | 6 |
-| 90d | 2026-07-10 | 2 | 15 | 2 | 2 | 6 | 13 |
-| last180d | 2026-04-11 | 4 | 33 | 2 | 5 | 17 | 38 |
-| 360d | 2025-10-13 | 9 | 80 | 2 | 19 | 46 | 79 |
-| last720d | 2024-10-18 | 17 | 142 | 2 | 44 | 67 | 142 |
+| 30d | 2026-09-09 | 0 | 5 | 1 | 0 | 4 | 8 |
+| last60d | 2026-08-10 | 0 | 5 | 1 | 0 | 5 | 8 |
+| 90d | 2026-07-11 | 2 | 16 | 1 | 2 | 6 | 15 |
+| last180d | 2026-04-12 | 4 | 35 | 1 | 5 | 16 | 40 |
+| 360d | 2025-10-14 | 9 | 82 | 1 | 19 | 45 | 81 |
+| last720d | 2024-10-19 | 17 | 144 | 1 | 44 | 67 | 144 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:23:05Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:17:45Z._
