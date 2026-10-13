@@ -22,7 +22,7 @@ Total: **11,196** lines of code across **63** files in the top 5 languages.
 | Toml | 180 | 43 | 20 | 4 |
 | Sql | 170 | 14 | 30 | 11 |
 | Nix | 96 | 6 | 14 | 1 |
-| Markdown | 0 | 617 | 274 | 2 |
+| Markdown | 0 | 628 | 282 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -41,39 +41,39 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.10.1` (2026-07-26)
-- **Last commit**: 2026-10-08
+- **Latest**: `v0.10.2` (2026-10-12)
+- **Last commit**: 2026-10-12
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,390 · **Forks**: 82 · **Open issues**: 235 · **Contributors**: 38
+- **Stars**: 1,390 · **Forks**: 83 · **Open issues**: 235 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 327 · **Open PRs**: 3 · **Closed issues**: 135 · **Open issues**: 100 · **Commits**: 405
+- **Releases**: 31 · **Merged PRs**: 329 · **Open PRs**: 5 · **Closed issues**: 135 · **Open issues**: 100 · **Commits**: 407
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 5 | 3 | 0 | 4 | 3 |
-| last60d | 2026-08-13 | 0 | 5 | 3 | 0 | 5 | 8 |
-| 90d | 2026-07-14 | 2 | 15 | 3 | 2 | 6 | 13 |
-| last180d | 2026-04-15 | 4 | 35 | 3 | 5 | 15 | 37 |
-| 360d | 2025-10-17 | 9 | 82 | 3 | 19 | 44 | 81 |
-| last720d | 2024-10-22 | 17 | 143 | 3 | 44 | 67 | 142 |
+| 30d | 2026-09-13 | 1 | 7 | 5 | 0 | 3 | 5 |
+| last60d | 2026-08-14 | 1 | 7 | 5 | 0 | 5 | 10 |
+| 90d | 2026-07-15 | 3 | 17 | 5 | 2 | 6 | 15 |
+| last180d | 2026-04-16 | 5 | 37 | 5 | 5 | 15 | 39 |
+| 360d | 2025-10-18 | 10 | 84 | 5 | 19 | 44 | 83 |
+| last720d | 2024-10-23 | 18 | 145 | 5 | 44 | 67 | 144 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gurk-aarch64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.1/gurk-aarch64-apple-darwin.tar.gz) | 9.4 MiB | `native/darwin/arm64` |
-| [gurk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.1/gurk-aarch64-unknown-linux-gnu.tar.gz) | 12.0 MiB | `native/linux/arm64/glibc` |
-| [gurk-aarch64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.1/gurk-aarch64-unknown-linux-musl.tar.gz) | 11.3 MiB | `native/linux/arm64/musl` |
-| [gurk-x86_64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.1/gurk-x86_64-apple-darwin.tar.gz) | 9.9 MiB | `native/darwin/x64` |
-| [gurk-x86_64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.1/gurk-x86_64-unknown-linux-gnu.tar.gz) | 11.4 MiB | `native/linux/x64/glibc` |
-| [gurk-x86_64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.1/gurk-x86_64-unknown-linux-musl.tar.gz) | 12.3 MiB | `native/linux/x64/musl` |
+| [gurk-aarch64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-apple-darwin.tar.gz) | 9.4 MiB | `native/darwin/arm64` |
+| [gurk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-unknown-linux-gnu.tar.gz) | 12.1 MiB | `native/linux/arm64/glibc` |
+| [gurk-aarch64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-unknown-linux-musl.tar.gz) | 11.4 MiB | `native/linux/arm64/musl` |
+| [gurk-x86_64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-apple-darwin.tar.gz) | 9.9 MiB | `native/darwin/x64` |
+| [gurk-x86_64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-gnu.tar.gz) | 11.5 MiB | `native/linux/x64/glibc` |
+| [gurk-x86_64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-musl.tar.gz) | 12.4 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:27:17Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:11:58Z._
