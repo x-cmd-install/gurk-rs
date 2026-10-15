@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9852163,
       "digest": "sha256:b2b622a1a721c04e4d3191c9f978606cb44d40727e918f41e149ca67644c5fef",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-12T10:53:42Z",
       "updated_at": "2026-10-12T10:53:43Z",
       "browser_download_url": "https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12053983,
       "digest": "sha256:b0f932becce8791f2dd4999bc633395eb868d1d33cb6000470e7f35a6c5694f2",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-12T10:53:42Z",
       "updated_at": "2026-10-12T10:53:43Z",
       "browser_download_url": "https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13040072,
       "digest": "sha256:91e19ba16097dbd264776b7d36f5895eed2e4ac1a3802ee513fec4190b3909b0",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-10-12T10:53:42Z",
       "updated_at": "2026-10-12T10:53:43Z",
       "browser_download_url": "https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-musl.tar.gz"
