@@ -30,8 +30,8 @@ x install gurk-rs
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,7 +47,7 @@ x install gurk-rs
 
 ## 流行度
 
-- **Star**: 1,395 · **Fork**: 84 · **开放 issue**: 235 · **贡献者**: 38
+- **Star**: 1,396 · **Fork**: 84 · **开放 issue**: 235 · **贡献者**: 38
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install gurk-rs
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 5 | 7 | 0 | 3 | 5 |
-| last60d | 2026-08-21 | 1 | 7 | 7 | 0 | 5 | 10 |
-| 90d | 2026-07-22 | 2 | 15 | 7 | 2 | 6 | 10 |
-| last180d | 2026-04-23 | 5 | 35 | 7 | 5 | 14 | 33 |
-| 360d | 2025-10-25 | 10 | 80 | 7 | 19 | 43 | 81 |
-| last720d | 2024-10-30 | 17 | 145 | 7 | 42 | 66 | 144 |
+| 30d | 2026-09-21 | 1 | 5 | 7 | 0 | 3 | 5 |
+| last60d | 2026-08-22 | 1 | 7 | 7 | 0 | 5 | 10 |
+| 90d | 2026-07-23 | 2 | 12 | 7 | 2 | 5 | 10 |
+| last180d | 2026-04-24 | 5 | 35 | 7 | 5 | 14 | 33 |
+| 360d | 2025-10-26 | 10 | 80 | 7 | 19 | 43 | 81 |
+| last720d | 2024-10-31 | 17 | 145 | 7 | 42 | 66 | 144 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ gurk-rs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:58:18Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T06:03:07Z._
