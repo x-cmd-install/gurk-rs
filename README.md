@@ -14,11 +14,11 @@ x install gurk-rs
 
 ## Code insight
 
-Total: **11,196** lines of code across **63** files in the top 5 languages.
+Total: **11,420** lines of code across **63** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,750 | 286 | 1,331 | 45 |
+| Rust | 10,974 | 280 | 1,349 | 45 |
 | Toml | 180 | 43 | 20 | 4 |
 | Sql | 170 | 14 | 30 | 11 |
 | Nix | 96 | 6 | 14 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.2` (2026-10-12)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-22
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,397 · **Forks**: 84 · **Open issues**: 235 · **Contributors**: 38
+- **Stars**: 1,398 · **Forks**: 84 · **Open issues**: 235 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 329 · **Open PRs**: 7 · **Closed issues**: 135 · **Open issues**: 100 · **Commits**: 407
+- **Releases**: 31 · **Merged PRs**: 330 · **Open PRs**: 7 · **Closed issues**: 135 · **Open issues**: 100 · **Commits**: 408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 5 | 7 | 0 | 3 | 5 |
-| last60d | 2026-08-23 | 1 | 7 | 7 | 0 | 5 | 10 |
-| 90d | 2026-07-24 | 2 | 12 | 7 | 2 | 5 | 10 |
-| last180d | 2026-04-25 | 5 | 35 | 7 | 5 | 14 | 33 |
-| 360d | 2025-10-27 | 10 | 80 | 7 | 19 | 42 | 81 |
-| last720d | 2024-11-01 | 17 | 145 | 7 | 42 | 66 | 144 |
+| 30d | 2026-09-23 | 1 | 6 | 7 | 0 | 3 | 6 |
+| last60d | 2026-08-24 | 1 | 8 | 7 | 0 | 5 | 11 |
+| 90d | 2026-07-25 | 2 | 13 | 7 | 2 | 5 | 11 |
+| last180d | 2026-04-26 | 5 | 35 | 7 | 5 | 14 | 34 |
+| 360d | 2025-10-28 | 10 | 81 | 7 | 19 | 41 | 82 |
+| last720d | 2024-11-02 | 17 | 146 | 7 | 42 | 66 | 145 |
 
 ## Release assets
 
@@ -75,6 +75,16 @@ Lowest-scoring checks:
 | [gurk-x86_64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-gnu.tar.gz) | 11.5 MiB | `native/linux/x64/glibc` |
 | [gurk-x86_64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-musl.tar.gz) | 12.4 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **33** distros on [repology.org](https://repology.org/project/gurk-rs). **13** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.10.2` | ✅ latest |
+| Homebrew | `0.10.2` | ✅ latest |
+| Nix unstable | `0.10.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `gurk-rs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +94,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:51:01Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:59:07Z._
