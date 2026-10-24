@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 6 | 7 | 0 | 3 | 6 |
-| last60d | 2026-08-24 | 1 | 8 | 7 | 0 | 5 | 11 |
-| 90d | 2026-07-25 | 2 | 13 | 7 | 2 | 5 | 11 |
-| last180d | 2026-04-26 | 5 | 35 | 7 | 5 | 14 | 34 |
-| 360d | 2025-10-28 | 10 | 81 | 7 | 19 | 41 | 82 |
-| last720d | 2024-11-02 | 17 | 146 | 7 | 42 | 66 | 145 |
+| 30d | 2026-09-24 | 1 | 6 | 7 | 0 | 3 | 6 |
+| last60d | 2026-08-25 | 1 | 8 | 7 | 0 | 5 | 11 |
+| 90d | 2026-07-26 | 2 | 11 | 7 | 2 | 5 | 11 |
+| last180d | 2026-04-27 | 4 | 32 | 7 | 4 | 14 | 34 |
+| 360d | 2025-10-29 | 10 | 81 | 7 | 18 | 40 | 82 |
+| last720d | 2024-11-03 | 17 | 146 | 7 | 42 | 66 | 145 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:59:07Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:50:01Z._
