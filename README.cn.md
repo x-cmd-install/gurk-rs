@@ -26,13 +26,13 @@ x install gurk-rs
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.2 / 10**
+总评分: **4 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install gurk-rs
 
 ## 流行度
 
-- **Star**: 1,400 · **Fork**: 84 · **开放 issue**: 235 · **贡献者**: 38
+- **Star**: 1,400 · **Fork**: 84 · **开放 issue**: 236 · **贡献者**: 38
 
 ## 累计统计
 
-- **发布数**: 31 · **已合并 PR**: 330 · **开放 PR**: 7 · **已关闭 issue**: 135 · **开放 issue**: 100 · **提交数**: 408
+- **发布数**: 31 · **已合并 PR**: 330 · **开放 PR**: 7 · **已关闭 issue**: 135 · **开放 issue**: 101 · **提交数**: 408
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 6 | 7 | 0 | 3 | 6 |
-| last60d | 2026-08-28 | 1 | 8 | 7 | 0 | 5 | 11 |
-| 90d | 2026-07-29 | 1 | 8 | 7 | 2 | 5 | 11 |
-| last180d | 2026-04-30 | 3 | 32 | 7 | 4 | 14 | 34 |
-| 360d | 2025-11-01 | 10 | 81 | 7 | 18 | 40 | 80 |
-| last720d | 2024-11-06 | 17 | 146 | 7 | 42 | 66 | 145 |
+| 30d | 2026-09-28 | 1 | 6 | 7 | 0 | 4 | 6 |
+| last60d | 2026-08-29 | 1 | 8 | 7 | 0 | 6 | 11 |
+| 90d | 2026-07-30 | 1 | 8 | 7 | 2 | 6 | 11 |
+| last180d | 2026-05-01 | 3 | 32 | 7 | 4 | 15 | 34 |
+| 360d | 2025-11-02 | 10 | 80 | 7 | 18 | 41 | 80 |
+| last720d | 2024-11-07 | 17 | 146 | 7 | 42 | 67 | 145 |
 
 ## Release 资产
 
@@ -94,4 +94,4 @@ gurk-rs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T06:17:38Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T07:00:05Z._
