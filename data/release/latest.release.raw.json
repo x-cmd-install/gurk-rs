@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12669143,
       "digest": "sha256:45e0a1176ad7650b56236c8d1ae6e57764a4c5679191c2586bcc2bdd4a50c7a5",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-12T10:53:42Z",
       "updated_at": "2026-10-12T10:53:43Z",
       "browser_download_url": "https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12053983,
       "digest": "sha256:b0f932becce8791f2dd4999bc633395eb868d1d33cb6000470e7f35a6c5694f2",
-      "download_count": 57,
+      "download_count": 61,
       "created_at": "2026-10-12T10:53:42Z",
       "updated_at": "2026-10-12T10:53:43Z",
       "browser_download_url": "https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13040072,
       "digest": "sha256:91e19ba16097dbd264776b7d36f5895eed2e4ac1a3802ee513fec4190b3909b0",
-      "download_count": 48,
+      "download_count": 52,
       "created_at": "2026-10-12T10:53:42Z",
       "updated_at": "2026-10-12T10:53:43Z",
       "browser_download_url": "https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-musl.tar.gz"
