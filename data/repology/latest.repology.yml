@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.2
+  origversion: 0.10.2-1
+  status: newest
+  summary: Signal Messenger client for terminal
+  licenses:
+    - AGPL-3.0-only
 - repo: arch
   subrepo: extra
   srcname: gurk
@@ -202,7 +213,18 @@
     - ZLIB
   categories:
     - net-im
-- repo: manjaro_unstable
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: gurk
+  binname: gurk
+  visiblename: gurk
+  version: 0.10.1
+  origversion: 0.10.1-1
+  status: outdated
+  summary: Signal Messenger client for terminal
+  licenses:
+    - AGPL-3.0-only
+- repo: manjaro_testing
   subrepo: extra
   srcname: gurk
   binname: gurk
