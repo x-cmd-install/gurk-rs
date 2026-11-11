@@ -30,8 +30,8 @@ Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,401 · **Forks**: 87 · **Open issues**: 236 · **Contributors**: 38
+- **Stars**: 1,402 · **Forks**: 89 · **Open issues**: 236 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 3 | 20 | 0 | 1 | 1 |
-| last60d | 2026-09-11 | 1 | 8 | 23 | 0 | 5 | 6 |
-| 90d | 2026-08-12 | 1 | 8 | 23 | 0 | 6 | 11 |
-| last180d | 2026-05-14 | 3 | 30 | 23 | 3 | 14 | 34 |
-| 360d | 2025-11-15 | 9 | 77 | 23 | 17 | 40 | 79 |
-| last720d | 2024-11-20 | 17 | 140 | 23 | 42 | 67 | 140 |
+| 30d | 2026-10-12 | 1 | 1 | 18 | 0 | 1 | 1 |
+| last60d | 2026-09-12 | 1 | 8 | 23 | 0 | 5 | 6 |
+| 90d | 2026-08-13 | 1 | 8 | 23 | 0 | 6 | 11 |
+| last180d | 2026-05-15 | 3 | 30 | 23 | 3 | 14 | 34 |
+| 360d | 2025-11-16 | 9 | 76 | 23 | 17 | 40 | 79 |
+| last720d | 2024-11-21 | 17 | 140 | 23 | 42 | 67 | 140 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:43:17Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:50:14Z._
