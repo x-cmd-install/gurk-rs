@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,403 · **Forks**: 90 · **Open issues**: 236 · **Contributors**: 38
+- **Stars**: 1,403 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 38
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 330 · **Open PRs**: 24 · **Closed issues**: 135 · **Open issues**: 101 · **Commits**: 408
+- **Releases**: 31 · **Merged PRs**: 330 · **Open PRs**: 25 · **Closed issues**: 135 · **Open issues**: 102 · **Commits**: 408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 1 | 17 | 0 | 1 | 1 |
-| last60d | 2026-09-15 | 1 | 6 | 24 | 0 | 4 | 6 |
-| 90d | 2026-08-16 | 1 | 8 | 24 | 0 | 6 | 11 |
-| last180d | 2026-05-18 | 3 | 30 | 24 | 3 | 12 | 34 |
-| 360d | 2025-11-19 | 9 | 76 | 24 | 17 | 39 | 79 |
-| last720d | 2024-11-24 | 17 | 139 | 24 | 42 | 67 | 139 |
+| 30d | 2026-10-16 | 0 | 1 | 18 | 0 | 2 | 1 |
+| last60d | 2026-09-16 | 1 | 6 | 25 | 0 | 5 | 6 |
+| 90d | 2026-08-17 | 1 | 8 | 25 | 0 | 7 | 11 |
+| last180d | 2026-05-19 | 3 | 30 | 25 | 3 | 13 | 34 |
+| 360d | 2025-11-20 | 9 | 76 | 25 | 17 | 40 | 79 |
+| last720d | 2024-11-25 | 17 | 139 | 25 | 42 | 68 | 139 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:18:11Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:59:08Z._
