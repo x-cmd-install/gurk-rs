@@ -14,11 +14,11 @@ x install gurk-rs
 
 ## Code insight
 
-Total: **11,420** lines of code across **63** files in the top 5 languages.
+Total: **11,416** lines of code across **63** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,974 | 280 | 1,349 | 45 |
+| Rust | 10,970 | 281 | 1,349 | 45 |
 | Toml | 180 | 43 | 20 | 4 |
 | Sql | 170 | 14 | 30 | 11 |
 | Nix | 96 | 6 | 14 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.2` (2026-10-12)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-11-20
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,405 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 38
+- **Stars**: 1,405 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 330 · **Open PRs**: 25 · **Closed issues**: 135 · **Open issues**: 102 · **Commits**: 408
+- **Releases**: 31 · **Merged PRs**: 334 · **Open PRs**: 24 · **Closed issues**: 137 · **Open issues**: 100 · **Commits**: 412
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 1 | 18 | 0 | 2 | 0 |
-| last60d | 2026-09-21 | 1 | 6 | 25 | 0 | 5 | 6 |
-| 90d | 2026-08-22 | 1 | 8 | 25 | 0 | 7 | 11 |
-| last180d | 2026-05-24 | 3 | 30 | 25 | 3 | 12 | 34 |
-| 360d | 2025-11-25 | 9 | 76 | 25 | 17 | 40 | 79 |
-| last720d | 2024-11-30 | 17 | 138 | 25 | 42 | 68 | 139 |
+| 30d | 2026-10-22 | 0 | 1 | 20 | 0 | 2 | 4 |
+| last60d | 2026-09-22 | 1 | 10 | 24 | 0 | 5 | 10 |
+| 90d | 2026-08-23 | 1 | 12 | 24 | 1 | 6 | 15 |
+| last180d | 2026-05-25 | 3 | 34 | 24 | 4 | 11 | 38 |
+| 360d | 2025-11-26 | 9 | 80 | 24 | 19 | 38 | 83 |
+| last720d | 2024-12-01 | 17 | 142 | 24 | 44 | 66 | 143 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:31:46Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:41:32Z._
