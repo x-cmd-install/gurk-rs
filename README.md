@@ -14,15 +14,15 @@ x install gurk-rs
 
 ## Code insight
 
-Total: **11,416** lines of code across **63** files in the top 5 languages.
+Total: **12,979** lines of code across **66** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 10,970 | 281 | 1,349 | 45 |
-| Toml | 180 | 43 | 20 | 4 |
-| Sql | 170 | 14 | 30 | 11 |
+| Rust | 12,522 | 331 | 1,507 | 46 |
+| Toml | 189 | 43 | 20 | 4 |
+| Sql | 172 | 14 | 30 | 13 |
 | Nix | 96 | 6 | 14 | 1 |
-| Markdown | 0 | 628 | 282 | 2 |
+| Markdown | 0 | 633 | 284 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.2` (2026-10-12)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-22
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,405 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 40
+- **Stars**: 1,407 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 334 · **Open PRs**: 24 · **Closed issues**: 137 · **Open issues**: 100 · **Commits**: 412
+- **Releases**: 31 · **Merged PRs**: 345 · **Open PRs**: 14 · **Closed issues**: 140 · **Open issues**: 97 · **Commits**: 423
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 1 | 20 | 0 | 2 | 4 |
-| last60d | 2026-09-22 | 1 | 10 | 24 | 0 | 5 | 10 |
-| 90d | 2026-08-23 | 1 | 12 | 24 | 1 | 6 | 15 |
-| last180d | 2026-05-25 | 3 | 34 | 24 | 4 | 11 | 38 |
-| 360d | 2025-11-26 | 9 | 80 | 24 | 19 | 38 | 83 |
-| last720d | 2024-12-01 | 17 | 142 | 24 | 44 | 66 | 143 |
+| 30d | 2026-10-23 | 0 | 9 | 13 | 0 | 2 | 15 |
+| last60d | 2026-09-23 | 1 | 21 | 14 | 2 | 3 | 21 |
+| 90d | 2026-08-24 | 1 | 23 | 14 | 3 | 4 | 26 |
+| last180d | 2026-05-26 | 3 | 45 | 14 | 6 | 9 | 49 |
+| 360d | 2025-11-27 | 9 | 91 | 14 | 21 | 36 | 94 |
+| last720d | 2024-12-02 | 17 | 153 | 14 | 47 | 63 | 154 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:41:32Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:36:17Z._
