@@ -1,14 +1,3 @@
-- repo: nix_stable_24_11
-  srcname: gurk-rs
-  visiblename: gurk-rs
-  version: 0.5.1
-  origversion: null
-  status: outdated
-  summary: Signal Messenger client for terminal
-  maintainers:
-    - '"^"@regexmail.net'
-  licenses:
-    - AGPL-3.0-only
 - repo: nix_stable_25_11
   srcname: gurk-rs
   visiblename: gurk-rs
@@ -85,17 +74,6 @@
     - bsd@orsolic.org
   categories:
     - net-im
-- repo: nix_stable_25_05
-  srcname: gurk-rs
-  visiblename: gurk-rs
-  version: 0.6.4
-  origversion: null
-  status: outdated
-  summary: Signal Messenger client for terminal
-  maintainers:
-    - '"^"@regexmail.net'
-  licenses:
-    - AGPL-3.0-only
 - repo: gentoo_ovl_guru
   srcname: net-im/gurk-rs
   visiblename: net-im/gurk-rs
@@ -240,9 +218,9 @@
   srcname: gurk
   binname: gurk
   visiblename: gurk
-  version: 0.10.1
-  origversion: 0.10.1-1
-  status: outdated
+  version: 0.10.2
+  origversion: 0.10.2-1
+  status: newest
   summary: Signal Messenger client for terminal
   licenses:
     - AGPL-3.0-only
@@ -272,6 +250,28 @@
   srcname: gurk-rs
   visiblename: gurk-rs
   version: 0.4.3
+  origversion: null
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - '"^"@regexmail.net'
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: gurk-rs
+  visiblename: gurk-rs
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: Signal Messenger client for terminal
+  maintainers:
+    - '"^"@regexmail.net'
+  licenses:
+    - AGPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: gurk-rs
+  visiblename: gurk-rs
+  version: 0.6.4
   origversion: null
   status: outdated
   summary: Signal Messenger client for terminal
