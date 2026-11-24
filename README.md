@@ -26,13 +26,13 @@ Total: **12,979** lines of code across **66** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.10.2` (2026-10-12)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-23
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,409 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 41
+- **Stars**: 1,410 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 41
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 345 · **Open PRs**: 15 · **Closed issues**: 140 · **Open issues**: 97 · **Commits**: 423
+- **Releases**: 31 · **Merged PRs**: 346 · **Open PRs**: 14 · **Closed issues**: 140 · **Open issues**: 97 · **Commits**: 424
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 9 | 14 | 0 | 2 | 15 |
-| last60d | 2026-09-24 | 1 | 21 | 15 | 2 | 3 | 21 |
-| 90d | 2026-08-25 | 1 | 23 | 15 | 3 | 4 | 26 |
-| last180d | 2026-05-27 | 3 | 45 | 15 | 6 | 9 | 49 |
-| 360d | 2025-11-28 | 9 | 91 | 15 | 21 | 36 | 94 |
-| last720d | 2024-12-03 | 17 | 153 | 15 | 47 | 63 | 154 |
+| 30d | 2026-10-25 | 0 | 10 | 13 | 0 | 2 | 16 |
+| last60d | 2026-09-25 | 1 | 22 | 14 | 2 | 3 | 22 |
+| 90d | 2026-08-26 | 1 | 24 | 14 | 3 | 4 | 27 |
+| last180d | 2026-05-28 | 3 | 46 | 14 | 6 | 9 | 50 |
+| 360d | 2025-11-29 | 9 | 92 | 14 | 21 | 36 | 95 |
+| last720d | 2024-12-04 | 17 | 154 | 14 | 47 | 63 | 155 |
 
 ## Release assets
 
@@ -77,7 +77,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **33** distros on [repology.org](https://repology.org/project/gurk-rs). **14** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **33** distros on [repology.org](https://repology.org/project/gurk-rs). **15** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:15:59Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:48:25Z._
