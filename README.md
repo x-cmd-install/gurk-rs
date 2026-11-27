@@ -14,15 +14,15 @@ x install gurk-rs
 
 ## Code insight
 
-Total: **12,979** lines of code across **66** files in the top 5 languages.
+Total: **13,266** lines of code across **66** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 12,522 | 331 | 1,507 | 46 |
+| Rust | 12,809 | 341 | 1,525 | 46 |
 | Toml | 189 | 43 | 20 | 4 |
 | Sql | 172 | 14 | 30 | 13 |
 | Nix | 96 | 6 | 14 | 1 |
-| Markdown | 0 | 633 | 284 | 2 |
+| Markdown | 0 | 662 | 295 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -41,39 +41,39 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.10.2` (2026-10-12)
-- **Last commit**: 2026-11-23
+- **Latest**: `v0.11.0` (2026-11-27)
+- **Last commit**: 2026-11-27
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,411 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 41
+- **Stars**: 1,411 · **Forks**: 91 · **Open issues**: 237 · **Contributors**: 42
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 346 · **Open PRs**: 14 · **Closed issues**: 140 · **Open issues**: 97 · **Commits**: 424
+- **Releases**: 32 · **Merged PRs**: 354 · **Open PRs**: 10 · **Closed issues**: 141 · **Open issues**: 96 · **Commits**: 432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 10 | 13 | 0 | 2 | 16 |
-| last60d | 2026-09-27 | 1 | 22 | 14 | 2 | 3 | 22 |
-| 90d | 2026-08-28 | 1 | 24 | 14 | 3 | 4 | 27 |
-| last180d | 2026-05-30 | 3 | 46 | 14 | 6 | 8 | 50 |
-| 360d | 2025-12-01 | 9 | 92 | 14 | 21 | 36 | 95 |
-| last720d | 2024-12-06 | 17 | 154 | 14 | 47 | 63 | 155 |
+| 30d | 2026-10-28 | 1 | 18 | 8 | 0 | 1 | 24 |
+| last60d | 2026-09-28 | 2 | 30 | 10 | 2 | 3 | 30 |
+| 90d | 2026-08-29 | 2 | 32 | 10 | 3 | 4 | 35 |
+| last180d | 2026-05-31 | 4 | 54 | 10 | 7 | 7 | 58 |
+| 360d | 2025-12-02 | 10 | 100 | 10 | 22 | 35 | 103 |
+| last720d | 2024-12-07 | 18 | 162 | 10 | 48 | 62 | 163 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [gurk-aarch64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-apple-darwin.tar.gz) | 9.4 MiB | `native/darwin/arm64` |
-| [gurk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-unknown-linux-gnu.tar.gz) | 12.1 MiB | `native/linux/arm64/glibc` |
-| [gurk-aarch64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-unknown-linux-musl.tar.gz) | 11.4 MiB | `native/linux/arm64/musl` |
-| [gurk-x86_64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-apple-darwin.tar.gz) | 9.9 MiB | `native/darwin/x64` |
-| [gurk-x86_64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-gnu.tar.gz) | 11.5 MiB | `native/linux/x64/glibc` |
-| [gurk-x86_64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-musl.tar.gz) | 12.4 MiB | `native/linux/x64/musl` |
+| [gurk-aarch64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-aarch64-apple-darwin.tar.gz) | 11.8 MiB | `native/darwin/arm64` |
+| [gurk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-aarch64-unknown-linux-gnu.tar.gz) | 14.6 MiB | `native/linux/arm64/glibc` |
+| [gurk-aarch64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-aarch64-unknown-linux-musl.tar.gz) | 13.8 MiB | `native/linux/arm64/musl` |
+| [gurk-x86_64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-x86_64-apple-darwin.tar.gz) | 12.4 MiB | `native/darwin/x64` |
+| [gurk-x86_64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-x86_64-unknown-linux-gnu.tar.gz) | 14.0 MiB | `native/linux/x64/glibc` |
+| [gurk-x86_64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-x86_64-unknown-linux-musl.tar.gz) | 15.0 MiB | `native/linux/x64/musl` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for gurk-rs lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:17:26Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:29:28Z._

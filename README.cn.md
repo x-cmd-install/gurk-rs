@@ -14,15 +14,15 @@ x install gurk-rs
 
 ## 代码洞察
 
-合计: **12,979** 行代码（覆盖前 5 种语言、共 **66** 个文件）。
+合计: **13,266** 行代码（覆盖前 5 种语言、共 **66** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 12,522 | 331 | 1,507 | 46 |
+| Rust | 12,809 | 341 | 1,525 | 46 |
 | Toml | 189 | 43 | 20 | 4 |
 | Sql | 172 | 14 | 30 | 13 |
 | Nix | 96 | 6 | 14 | 1 |
-| Markdown | 0 | 633 | 284 | 2 |
+| Markdown | 0 | 662 | 295 | 2 |
 
 ## OpenSSF Scorecard 评分
 
@@ -41,39 +41,39 @@ x install gurk-rs
 
 ## 发布
 
-- **最新版本**: `v0.10.2` (2026-10-12)
-- **最近提交**: 2026-11-23
+- **最新版本**: `v0.11.0` (2026-11-27)
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 1,411 · **Fork**: 91 · **开放 issue**: 237 · **贡献者**: 41
+- **Star**: 1,411 · **Fork**: 91 · **开放 issue**: 237 · **贡献者**: 42
 
 ## 累计统计
 
-- **发布数**: 31 · **已合并 PR**: 346 · **开放 PR**: 14 · **已关闭 issue**: 140 · **开放 issue**: 97 · **提交数**: 424
+- **发布数**: 32 · **已合并 PR**: 354 · **开放 PR**: 10 · **已关闭 issue**: 141 · **开放 issue**: 96 · **提交数**: 432
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 10 | 13 | 0 | 2 | 16 |
-| last60d | 2026-09-27 | 1 | 22 | 14 | 2 | 3 | 22 |
-| 90d | 2026-08-28 | 1 | 24 | 14 | 3 | 4 | 27 |
-| last180d | 2026-05-30 | 3 | 46 | 14 | 6 | 8 | 50 |
-| 360d | 2025-12-01 | 9 | 92 | 14 | 21 | 36 | 95 |
-| last720d | 2024-12-06 | 17 | 154 | 14 | 47 | 63 | 155 |
+| 30d | 2026-10-28 | 1 | 18 | 8 | 0 | 1 | 24 |
+| last60d | 2026-09-28 | 2 | 30 | 10 | 2 | 3 | 30 |
+| 90d | 2026-08-29 | 2 | 32 | 10 | 3 | 4 | 35 |
+| last180d | 2026-05-31 | 4 | 54 | 10 | 7 | 7 | 58 |
+| 360d | 2025-12-02 | 10 | 100 | 10 | 22 | 35 | 103 |
+| last720d | 2024-12-07 | 18 | 162 | 10 | 48 | 62 | 163 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [gurk-aarch64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-apple-darwin.tar.gz) | 9.4 MiB | `native/darwin/arm64` |
-| [gurk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-unknown-linux-gnu.tar.gz) | 12.1 MiB | `native/linux/arm64/glibc` |
-| [gurk-aarch64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-aarch64-unknown-linux-musl.tar.gz) | 11.4 MiB | `native/linux/arm64/musl` |
-| [gurk-x86_64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-apple-darwin.tar.gz) | 9.9 MiB | `native/darwin/x64` |
-| [gurk-x86_64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-gnu.tar.gz) | 11.5 MiB | `native/linux/x64/glibc` |
-| [gurk-x86_64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.10.2/gurk-x86_64-unknown-linux-musl.tar.gz) | 12.4 MiB | `native/linux/x64/musl` |
+| [gurk-aarch64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-aarch64-apple-darwin.tar.gz) | 11.8 MiB | `native/darwin/arm64` |
+| [gurk-aarch64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-aarch64-unknown-linux-gnu.tar.gz) | 14.6 MiB | `native/linux/arm64/glibc` |
+| [gurk-aarch64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-aarch64-unknown-linux-musl.tar.gz) | 13.8 MiB | `native/linux/arm64/musl` |
+| [gurk-x86_64-apple-darwin.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-x86_64-apple-darwin.tar.gz) | 12.4 MiB | `native/darwin/x64` |
+| [gurk-x86_64-unknown-linux-gnu.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-x86_64-unknown-linux-gnu.tar.gz) | 14.0 MiB | `native/linux/x64/glibc` |
+| [gurk-x86_64-unknown-linux-musl.tar.gz](https://github.com/boxdot/gurk-rs/releases/download/v0.11.0/gurk-x86_64-unknown-linux-musl.tar.gz) | 15.0 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ gurk-rs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T10:17:26Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T10:29:29Z._
