@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.0"
   latestRelease: "v0.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:29:02Z
+  collectedAt: 2026-11-28T09:22:27Z
 timeline:
   created: 2020-07-22
   lastCommit: 2026-11-27
@@ -15,76 +15,76 @@ timeline:
   lastRelease: 2026-11-27
   lastPrerelease: 
 popularity:
-  star: 1411
+  star: 1412
   watcher: 13
   fork: 91
   release: 32
   contributor: 42
   pullRequest: 385
-  issue: 237
+  issue: 238
 language:
   Rust: 511278
   Nix: 3418
 totalBytes: 514696
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 18
     openPR: 8
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 24
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
     mergedPR: 30
     openPR: 10
     closedIssue: 2
-    openIssue: 3
+    openIssue: 4
     commit: 30
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
     mergedPR: 32
     openPR: 10
     closedIssue: 3
-    openIssue: 4
+    openIssue: 5
     commit: 35
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 4
     mergedPR: 54
     openPR: 10
     closedIssue: 7
-    openIssue: 7
+    openIssue: 8
     commit: 58
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 10
     mergedPR: 100
     openPR: 10
     closedIssue: 22
-    openIssue: 35
+    openIssue: 36
     commit: 103
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 18
     mergedPR: 162
     openPR: 10
     closedIssue: 48
-    openIssue: 62
+    openIssue: 63
     commit: 163
 total:
   release: 32
   mergedPR: 354
   openPR: 10
   closedIssue: 141
-  openIssue: 96
+  openIssue: 97
   commit: 432
 ---
 path: /home/runner/.x-repo/github.com/boxdot/gurk-rs
-collectedAt: 2026-11-27T10:29:03Z
+collectedAt: 2026-11-28T09:22:28Z
 loc:
   Rust:
     code: 12809
@@ -212,4 +212,4 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":460316174,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOEMucuM4bb94O","tag_name":"v0.11.0","target_commitish":"main","name":"v0.11.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T07:59:33Z","updated_at":"2026-11-27T09:33:35Z","published_at":"2026-11-27T09:33:35Z","assets":[{"id":799577036,"node_id":"RA_kwDOEMucuM4vqJPM","name":"gurk-aarch64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":12391440,"digest":"sha256:5e9f3e466834a0ec1a7f03000af7fe97feb54b836ab5c72b77e0eed06ced360e","download_count":2,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577029,"node_id":"RA_kwDOEMucuM4vqJPF","name":"gurk-aarch64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":15271170,"digest":"sha256:fbdde2b0969119c0c0acc645e8abdd3dd45cd08c1cca431ef783d0308f769c57","download_count":1,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577032,"node_id":"RA_kwDOEMucuM4vqJPI","name":"gurk-aarch64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":14438230,"digest":"sha256:7c8bde250c2715b22853e4820c15573a5bc6716d5093122c20b8a5e7ab414e3c","download_count":2,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577051,"node_id":"RA_kwDOEMucuM4vqJPb","name":"gurk-x86_64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":12992118,"digest":"sha256:df8d6e974eaac393ac46762c48209427a6d6531065c8d8216c107df2be2922ff","download_count":2,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577059,"node_id":"RA_kwDOEMucuM4vqJPj","name":"gurk-x86_64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":14714850,"digest":"sha256:839c1f0c1e46eb74ba791da723f5bc8638e6707551a4b9bf4edf4f6cfe5fb52b","download_count":1,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577052,"node_id":"RA_kwDOEMucuM4vqJPc","name":"gurk-x86_64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":15734759,"digest":"sha256:66ef3c3f5a0669f7b767f9a7498c79b4dd50e6bbfba364f23bf347041cae4027","download_count":2,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"}],"body":"### 🚀 Features\r\n\r\n- Display link preview text from incoming messages (#582)\r\n- Add device_name config option (#586)\r\n- Inline image previews (#597)\r\n\r\n### 🐛 Bug Fixes\r\n\r\n- Download attachments and resolve profile names in the background (#594)\r\n- Fail the send when an attachment upload fails (#614)\r\n- Use grapheme clusters for emoji width calculation (#592)\r\n- Don't panic on out-of-range message timestamps (#598)\r\n- Don't panic storing a message with a timestamp above i64::MAX (#599)\r\n- Don't panic on a sync reaction with a read entry without timestamp (#600)\r\n- Reject body ranges whose end overflows (#601)\r\n- Only apply a remote delete from the message's author (#602)\r\n- Only apply an edit from the message's author (#603)\r\n- Drop group messages from senders who are not group members (#604)\r\n- Ignore reactions that are not an emoji (#606)\r\n- Escape markup in the body of desktop notifications (#607)\r\n- Don't let a message overwrite another author's message (#608)\r\n- Copy message text without escape and control characters (#609)\r\n- Upgrade presage -- in particular fixes attachment upload (#619)\r\n\r\n### 📚 Documentation\r\n\r\n- Add [T] typing indicator to help panel (#593)\r\n- Fix README example config (#590)\r\n\r\n### ⚙️ Miscellaneous Tasks\r\n\r\n- Agents are not authors (#620)\r\n\r\n\r\n* @jmserra made their first contribution in #597\r\n* @sean0407 made their first contribution in #590\r\n* @ng572 made their first contribution in #614","mentions_count":3}
+{"id":460316174,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOEMucuM4bb94O","tag_name":"v0.11.0","target_commitish":"main","name":"v0.11.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T07:59:33Z","updated_at":"2026-11-27T09:33:35Z","published_at":"2026-11-27T09:33:35Z","assets":[{"id":799577036,"node_id":"RA_kwDOEMucuM4vqJPM","name":"gurk-aarch64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":12391440,"digest":"sha256:5e9f3e466834a0ec1a7f03000af7fe97feb54b836ab5c72b77e0eed06ced360e","download_count":2,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577029,"node_id":"RA_kwDOEMucuM4vqJPF","name":"gurk-aarch64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":15271170,"digest":"sha256:fbdde2b0969119c0c0acc645e8abdd3dd45cd08c1cca431ef783d0308f769c57","download_count":1,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577032,"node_id":"RA_kwDOEMucuM4vqJPI","name":"gurk-aarch64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":14438230,"digest":"sha256:7c8bde250c2715b22853e4820c15573a5bc6716d5093122c20b8a5e7ab414e3c","download_count":3,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577051,"node_id":"RA_kwDOEMucuM4vqJPb","name":"gurk-x86_64-apple-darwin.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":12992118,"digest":"sha256:df8d6e974eaac393ac46762c48209427a6d6531065c8d8216c107df2be2922ff","download_count":2,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577059,"node_id":"RA_kwDOEMucuM4vqJPj","name":"gurk-x86_64-unknown-linux-gnu.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":14714850,"digest":"sha256:839c1f0c1e46eb74ba791da723f5bc8638e6707551a4b9bf4edf4f6cfe5fb52b","download_count":2,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"},{"id":799577052,"node_id":"RA_kwDOEMucuM4vqJPc","name":"gurk-x86_64-unknown-linux-musl.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/gzip","state":"uploaded","size":15734759,"digest":"sha256:66ef3c3f5a0669f7b767f9a7498c79b4dd50e6bbfba364f23bf347041cae4027","download_count":7,"created_at":"2026-11-27T08:11:03Z","updated_at":"2026-11-27T08:11:04Z"}],"body":"### 🚀 Features\r\n\r\n- Display link preview text from incoming messages (#582)\r\n- Add device_name config option (#586)\r\n- Inline image previews (#597)\r\n\r\n### 🐛 Bug Fixes\r\n\r\n- Download attachments and resolve profile names in the background (#594)\r\n- Fail the send when an attachment upload fails (#614)\r\n- Use grapheme clusters for emoji width calculation (#592)\r\n- Don't panic on out-of-range message timestamps (#598)\r\n- Don't panic storing a message with a timestamp above i64::MAX (#599)\r\n- Don't panic on a sync reaction with a read entry without timestamp (#600)\r\n- Reject body ranges whose end overflows (#601)\r\n- Only apply a remote delete from the message's author (#602)\r\n- Only apply an edit from the message's author (#603)\r\n- Drop group messages from senders who are not group members (#604)\r\n- Ignore reactions that are not an emoji (#606)\r\n- Escape markup in the body of desktop notifications (#607)\r\n- Don't let a message overwrite another author's message (#608)\r\n- Copy message text without escape and control characters (#609)\r\n- Upgrade presage -- in particular fixes attachment upload (#619)\r\n\r\n### 📚 Documentation\r\n\r\n- Add [T] typing indicator to help panel (#593)\r\n- Fix README example config (#590)\r\n\r\n### ⚙️ Miscellaneous Tasks\r\n\r\n- Agents are not authors (#620)\r\n\r\n\r\n* @jmserra made their first contribution in #597\r\n* @sean0407 made their first contribution in #590\r\n* @ng572 made their first contribution in #614","mentions_count":3}
